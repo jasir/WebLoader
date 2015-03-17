@@ -16,9 +16,9 @@
 		}
 	},
 	"require": {
-		"nette/application": "2.2.*@dev",
-		"nette/di": "2.2.*@dev",
-		"nette/utils": "2.2.*@dev"
+		"nette/application": "~2.2@dev",
+		"nette/di": "~2.2@dev",
+		"nette/utils": "~2.2@dev"
 	},
 	"suggest": {
 		"oyejorge/less.php": "Lessphp is a composer for LESS written in PHP.",
